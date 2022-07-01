@@ -30,5 +30,5 @@ const YOUR_API_KEY = '<your_api_key>';
 
 ![home](https://user-images.githubusercontent.com/101992799/176957560-607561c8-cca2-4579-98b8-d9f887502b09.png)
 ![success](https://user-images.githubusercontent.com/101992799/176957568-698f5504-a110-4cf6-904e-2d472d3ed762.png)
-![failure](https://user-images.githubusercontent.com/101992799/176957576-c7acf5dd-b762-42ec-910e-003b2dd18a7d.png)
+![failure](https://user-images.githubusercontent.com/101992799/176964443-215d9324-ebc9-4b7e-bac0-27f80a89851b.png)
 ![contacts](https://user-images.githubusercontent.com/101992799/176957584-b42ce7e4-864f-424b-ac26-330881022fd6.png)
